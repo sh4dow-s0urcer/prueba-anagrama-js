@@ -1,6 +1,6 @@
 {
   "name": "anagram-finder",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple tool made to find the anagram between two words.",
   "main": "main.js",
   "dependencies": {
