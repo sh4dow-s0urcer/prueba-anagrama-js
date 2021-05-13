@@ -1,0 +1,23 @@
+{
+  "name": "anagram-finder",
+  "version": "1.0.0",
+  "description": "A simple tool made to find the anagram between two words.",
+  "main": "main.js",
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sh4dow-s0urcer/prueba-anagrama-js.git"
+  },
+  "author": "Axel Grullon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sh4dow-s0urcer/prueba-anagrama-js/issues"
+  },
+  "homepage": "https://github.com/sh4dow-s0urcer/prueba-anagrama-js#readme"
+}
